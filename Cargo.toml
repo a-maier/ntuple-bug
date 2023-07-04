@@ -1,0 +1,7 @@
+[package]
+name = "ntuple-bug"
+version = "0.1.0"
+edition = "2021"
+
+[build-dependencies]
+ntuple = "0.7.0"
